@@ -1,0 +1,14 @@
+h1 {
+    background-color: rgb(224, 177, 21);
+    color: blue;
+    
+}
+body {
+    text-align: center;
+}
+
+a {
+    font-style: italic;
+    color:green;
+    
+}

@@ -1,0 +1,14 @@
+/*this style is for recipes */
+body {
+    background-color:rgb(209, 140, 12);
+    text-align:center;
+    color:black;
+
+}
+
+h1, h3 {
+    color: brown;
+    font-style: italic;
+}
+
+
